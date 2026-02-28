@@ -1,6 +1,8 @@
 # Hello! I'm Tyler Le
 
-I am a Data Scientist and ML Researcher, currently studying Data Science at the University of Florida. I am eager to learn, as there are so many resources out there. I hope you find my work intriguing!
+I am currently studying Data Science at the University of Florida. I am eager to learn more about data pipelines and software practices. I hope you find my work intriguing!
+
+I enjoy running, content cooking and staying out of Gainesville
 
 | Date | PR | Description |Status |
 |---|---|---|---|
