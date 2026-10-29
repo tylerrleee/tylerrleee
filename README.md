@@ -1,11 +1,16 @@
-# Hello! I'm Tyler Le
+# tylerrleee
 
-I am currently studying Data Science at the University of Florida, graduating in 2027. 
+# Hi, I'm Tyler! :D
 
-My values stems on helping my community and myself by stepping forward with relevant data, empathy and building trust with others. From technical and non-technical teams, or student organizations, I have learned to become someone who listen, learn others' perspective and be curious about topics that I don't know--I believe those are the qualities that I grew up and nurtured with as a first-generation student. 
+I'm currently pursuing my Bachelor's in Data Science at the University of Florida!
 
-DM to help me learn about you or let me know how I can help you -> [My Linkedin](<https://www.linkedin.com/in/tylerle-uf/>)
+### The sugar to my tea
 
+- I knew I wanted to get into engineering at 8 when I made a lantern out of cardboard, duct tape, batteries and light bulb at a Autumn festival in Vietnam. 
+- I've worked on sales anomaly detection at **Trulieve**, developing accessible ASL captions from YouTube audio at **Sponsors for Educational Opportunity (SEO)**, and causal inference in mobile health applications at **UF SMASH Lab**. 
+- I enjoy not knowing things, as I can control how I approach learning.
+- I'm exploring machine learning, NLP, causal inference and how we can leverage data to make a difference. 
 
-![My Github Views :D](https://komarev.com/ghpvc/?username=tylerrleee&color=8ba888&style=plastic&abbreviated=true)
+### Happy to connect!
 
+[tylerle.org](https://www.tylerle.org/) · [linkedin](https://www.linkedin.com/in/tylerle-uf/)
