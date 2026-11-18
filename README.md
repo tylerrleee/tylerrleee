@@ -4,7 +4,7 @@
 
 I'm currently pursuing my Bachelor's in Data Science at the University of Florida!
 
-### The sugar to my tea
+### about me
 
 - I knew I wanted to get into engineering at 8 when I made a lantern out of cardboard, duct tape, batteries and light bulb at a Autumn festival in Vietnam. 
 - I've worked on sales anomaly detection at **Trulieve**, developing accessible ASL captions from YouTube audio at **Sponsors for Educational Opportunity (SEO)**, and causal inference in mobile health applications at **UF SMASH Lab**. 
